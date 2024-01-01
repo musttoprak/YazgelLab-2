@@ -19,6 +19,8 @@ namespace yazgel_proje.Controllers
         public IActionResult Index()
         {
             var ogretmenler = _context.Ogretmen.ToList();
+            var a  = _context.Kisit.ToList().First<Kisit>().Ogretmen.ogretmenAdi;
+ 
             Console.WriteLine(ogretmenler.First<Ogretmen>().ogretmenAdi);
             return View();
         }

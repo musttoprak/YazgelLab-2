@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projelerim\\yazgel_proje\\yazgel_proje\\yazgel_proje\\yazgel_proje.csproj": {}
+    "C:\\Projelerim\\yazgel_proje\\YazgelLab-2\\yazgel_proje\\yazgel_proje\\yazgel_proje.csproj": {}
   },
   "projects": {
-    "C:\\Projelerim\\yazgel_proje\\yazgel_proje\\yazgel_proje\\yazgel_proje.csproj": {
+    "C:\\Projelerim\\yazgel_proje\\YazgelLab-2\\yazgel_proje\\yazgel_proje\\yazgel_proje.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projelerim\\yazgel_proje\\yazgel_proje\\yazgel_proje\\yazgel_proje.csproj",
+        "projectUniqueName": "C:\\Projelerim\\yazgel_proje\\YazgelLab-2\\yazgel_proje\\yazgel_proje\\yazgel_proje.csproj",
         "projectName": "yazgel_proje",
-        "projectPath": "C:\\Projelerim\\yazgel_proje\\yazgel_proje\\yazgel_proje\\yazgel_proje.csproj",
+        "projectPath": "C:\\Projelerim\\yazgel_proje\\YazgelLab-2\\yazgel_proje\\yazgel_proje\\yazgel_proje.csproj",
         "packagesPath": "C:\\Users\\asus\\.nuget\\packages\\",
-        "outputPath": "C:\\Projelerim\\yazgel_proje\\yazgel_proje\\yazgel_proje\\obj\\",
+        "outputPath": "C:\\Projelerim\\yazgel_proje\\YazgelLab-2\\yazgel_proje\\yazgel_proje\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\asus\\AppData\\Roaming\\NuGet\\NuGet.Config",

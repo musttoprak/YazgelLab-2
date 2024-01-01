@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ddO83em849771X7lBEo4/GL6bxegVqua2WJv5HcGE63lUF1IMgLVZquPnIBM+wtHp4nKYF4g1J6gTAB9gzHAqg==",
+  "dgSpecHash": "Uywsa9a+sI6aUNbPi6gzYW2ZwIXRiFkq4SmNxVwja5OK8usJVLK9QNeRtdDLKzGl5qnRIJEo1u7mKKZ5diJWkg==",
   "success": true,
-  "projectFilePath": "C:\\Projelerim\\yazgel_proje\\yazgel_proje\\yazgel_proje\\yazgel_proje.csproj",
+  "projectFilePath": "C:\\Projelerim\\yazgel_proje\\YazgelLab-2\\yazgel_proje\\yazgel_proje\\yazgel_proje.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\asus\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\asus\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
