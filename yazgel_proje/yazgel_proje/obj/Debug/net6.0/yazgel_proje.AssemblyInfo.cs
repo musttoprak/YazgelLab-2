@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("yazgel_proje")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+27b365b57beda996b4b10a1fc47b019b278d8df9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c42bb9e5eaa12d492ddc7fc5facda50c60d98eba")]
 [assembly: System.Reflection.AssemblyProductAttribute("yazgel_proje")]
 [assembly: System.Reflection.AssemblyTitleAttribute("yazgel_proje")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -13,8 +13,6 @@ namespace yazgel_proje.Models
         public int ogretmenId { get; set; }
         public string ogretmenAdi { get; set; }
 
-        public Kisit Kisit { get; set; }
-
-        public DersProgrami DersProgrami { get; set;}
+       
     }
 }

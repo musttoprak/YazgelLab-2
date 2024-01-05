@@ -9,43 +9,71 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = yazgel_proje
 build_property.RootNamespace = yazgel_proje
-build_property.ProjectDir = C:\Projelerim\yazgel_proje\YazgelLab-2\yazgel_proje\yazgel_proje\
+build_property.ProjectDir = C:\Users\Muhammet Çakır\Desktop\YazgelLab-2\YazgelLab-2\yazgel_proje\yazgel_proje\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Projelerim\yazgel_proje\YazgelLab-2\yazgel_proje\yazgel_proje
+build_property.MSBuildProjectDirectory = C:\Users\Muhammet Çakır\Desktop\YazgelLab-2\YazgelLab-2\yazgel_proje\yazgel_proje
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Projelerim/yazgel_proje/YazgelLab-2/yazgel_proje/yazgel_proje/Views/Home/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+[C:/Users/Muhammet Çakır/Desktop/YazgelLab-2/YazgelLab-2/yazgel_proje/yazgel_proje/Views/DersProgrami/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVyc1Byb2dyYW1pXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Projelerim/yazgel_proje/YazgelLab-2/yazgel_proje/yazgel_proje/Views/Home/Privacy.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+[C:/Users/Muhammet Çakır/Desktop/YazgelLab-2/YazgelLab-2/yazgel_proje/yazgel_proje/Views/DersProgrami/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVyc1Byb2dyYW1pXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Projelerim/yazgel_proje/YazgelLab-2/yazgel_proje/yazgel_proje/Views/Ogretmenler/GetOgretmenler.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT2dyZXRtZW5sZXJcR2V0T2dyZXRtZW5sZXIuY3NodG1s
+[C:/Users/Muhammet Çakır/Desktop/YazgelLab-2/YazgelLab-2/yazgel_proje/yazgel_proje/Views/DersProgrami/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVyc1Byb2dyYW1pXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Projelerim/yazgel_proje/YazgelLab-2/yazgel_proje/yazgel_proje/Views/Shared/Error.cshtml]
+[C:/Users/Muhammet Çakır/Desktop/YazgelLab-2/YazgelLab-2/yazgel_proje/yazgel_proje/Views/DersProgrami/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVyc1Byb2dyYW1pXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Muhammet Çakır/Desktop/YazgelLab-2/YazgelLab-2/yazgel_proje/yazgel_proje/Views/DersProgrami/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVyc1Byb2dyYW1pXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Muhammet Çakır/Desktop/YazgelLab-2/YazgelLab-2/yazgel_proje/yazgel_proje/Views/Kisit/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS2lzaXRcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Muhammet Çakır/Desktop/YazgelLab-2/YazgelLab-2/yazgel_proje/yazgel_proje/Views/Kisit/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS2lzaXRcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Muhammet Çakır/Desktop/YazgelLab-2/YazgelLab-2/yazgel_proje/yazgel_proje/Views/Ogretmen/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT2dyZXRtZW5cQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Muhammet Çakır/Desktop/YazgelLab-2/YazgelLab-2/yazgel_proje/yazgel_proje/Views/Ogretmen/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT2dyZXRtZW5cRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Muhammet Çakır/Desktop/YazgelLab-2/YazgelLab-2/yazgel_proje/yazgel_proje/Views/Ogretmen/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT2dyZXRtZW5cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Muhammet Çakır/Desktop/YazgelLab-2/YazgelLab-2/yazgel_proje/yazgel_proje/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Projelerim/yazgel_proje/YazgelLab-2/yazgel_proje/yazgel_proje/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/Muhammet Çakır/Desktop/YazgelLab-2/YazgelLab-2/yazgel_proje/yazgel_proje/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Projelerim/yazgel_proje/YazgelLab-2/yazgel_proje/yazgel_proje/Views/_ViewImports.cshtml]
+[C:/Users/Muhammet Çakır/Desktop/YazgelLab-2/YazgelLab-2/yazgel_proje/yazgel_proje/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Projelerim/yazgel_proje/YazgelLab-2/yazgel_proje/yazgel_proje/Views/_ViewStart.cshtml]
+[C:/Users/Muhammet Çakır/Desktop/YazgelLab-2/YazgelLab-2/yazgel_proje/yazgel_proje/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Projelerim/yazgel_proje/YazgelLab-2/yazgel_proje/yazgel_proje/Views/Shared/_Layout.cshtml]
+[C:/Users/Muhammet Çakır/Desktop/YazgelLab-2/YazgelLab-2/yazgel_proje/yazgel_proje/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-ps007p1cfn

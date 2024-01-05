@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projelerim\\yazgel_proje\\YazgelLab-2\\yazgel_proje\\yazgel_proje\\yazgel_proje.csproj": {}
+    "C:\\Users\\Muhammet Çakır\\Desktop\\YazgelLab-2\\YazgelLab-2\\yazgel_proje\\yazgel_proje\\yazgel_proje.csproj": {}
   },
   "projects": {
-    "C:\\Projelerim\\yazgel_proje\\YazgelLab-2\\yazgel_proje\\yazgel_proje\\yazgel_proje.csproj": {
+    "C:\\Users\\Muhammet Çakır\\Desktop\\YazgelLab-2\\YazgelLab-2\\yazgel_proje\\yazgel_proje\\yazgel_proje.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projelerim\\yazgel_proje\\YazgelLab-2\\yazgel_proje\\yazgel_proje\\yazgel_proje.csproj",
+        "projectUniqueName": "C:\\Users\\Muhammet Çakır\\Desktop\\YazgelLab-2\\YazgelLab-2\\yazgel_proje\\yazgel_proje\\yazgel_proje.csproj",
         "projectName": "yazgel_proje",
-        "projectPath": "C:\\Projelerim\\yazgel_proje\\YazgelLab-2\\yazgel_proje\\yazgel_proje\\yazgel_proje.csproj",
-        "packagesPath": "C:\\Users\\asus\\.nuget\\packages\\",
-        "outputPath": "C:\\Projelerim\\yazgel_proje\\YazgelLab-2\\yazgel_proje\\yazgel_proje\\obj\\",
+        "projectPath": "C:\\Users\\Muhammet Çakır\\Desktop\\YazgelLab-2\\YazgelLab-2\\yazgel_proje\\yazgel_proje\\yazgel_proje.csproj",
+        "packagesPath": "C:\\Users\\Muhammet Çakır\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Muhammet Çakır\\Desktop\\YazgelLab-2\\YazgelLab-2\\yazgel_proje\\yazgel_proje\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Muhammet Çakır\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -58,13 +62,21 @@
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[7.0.10, )"
+              "version": "[6.0.23, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[6.0.23, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[7.0.10, )"
+              "version": "[6.0.23, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[6.0.16, )"
             },
             "MySql.Data": {
               "target": "Package",
@@ -77,6 +89,10 @@
             "Pomelo.EntityFrameworkCore.MySql": {
               "target": "Package",
               "version": "[7.0.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
             }
           },
           "imports": [
@@ -98,7 +114,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100-rc.2.23502.2\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

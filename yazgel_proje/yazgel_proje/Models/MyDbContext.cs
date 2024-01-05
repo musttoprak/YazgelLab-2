@@ -26,17 +26,7 @@ namespace yazgel_proje
             modelBuilder.Entity<Ogretmen>(e => e.HasKey(x => x.ogretmenId));
             modelBuilder.Entity<Kisit>(e => e.HasKey(x => x.kisitId));
             modelBuilder.Entity<DersProgrami>(e => e.HasKey(x => x.dersProgramiId));
-
-
-            modelBuilder.Entity<Kisit>()
-               .HasOne(x => x.Ogretmen)
-               .WithOne(x => x.Kisit)
-               .HasForeignKey<Ogretmen>(x => x.ogretmenId);
-
-            modelBuilder.Entity<DersProgrami>()
-               .HasOne(x => x.Ogretmen)
-               .WithOne(x => x.DersProgrami)
-               .HasForeignKey<Ogretmen>(x => x.ogretmenId);
+ 
         }
     }
 }
